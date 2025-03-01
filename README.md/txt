@@ -1,0 +1,15 @@
+# 🛞 Sistema de Gestão de Pneus para Transportadoras
+
+Este é um sistema completo para gestão de pneus, com funcionalidades como:
+- 📊 Controle de quilometragem e desgaste.
+- 🚨 Alertas automáticos para troca ou recapagem.
+- 📑 Relatórios de uso e estatísticas.
+- 🟩 Dashboard visual com gráficos de performance.
+
+## 🚀 Como rodar o projeto
+
+1. **Backend:**  
+```bash
+cd backend
+npm install
+npm start
