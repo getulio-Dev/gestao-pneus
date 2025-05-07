@@ -13,3 +13,9 @@ Este é um sistema completo para gestão de pneus, com funcionalidades como:
 cd backend
 npm install
 npm start
+
+## Atualizacao ##
+
+- Inclusão de imagens
+- Inclusao de insidht 
+- Acesso pelo Vercel entrada via token de Acesso.
